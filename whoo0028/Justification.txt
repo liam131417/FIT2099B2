@@ -1,0 +1,8 @@
+Advantages of using int
+- Less computation power to find the id
+
+
+
+
+Adavantages of using String
+- Can include alphbet in the ID
