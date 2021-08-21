@@ -1,0 +1,15 @@
+Advantages of using int
+- Less computation power to find the id
+- Can easily be generated
+
+Disadvantages of using int
+- The combination of the ID might be restricted when the database is massive
+
+Advantages of using String
+- Can include alphabet in the ID which will allow more combination of the id
+
+
+Disadvantages of sing String
+- Not so easily to generate the random number
+- More computation needed when finding the id
+
